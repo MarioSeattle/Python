@@ -1,0 +1,2 @@
+inpTest = input("Enter a string ")
+print("\nThe number of character on the string are ", len(inpTest))
